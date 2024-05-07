@@ -1,0 +1,3 @@
+[submodule "employee-management-ui"]
+	path = employee-management-ui
+	url = https://github.com/snbiju/employee-management-ui.git
