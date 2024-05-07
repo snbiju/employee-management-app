@@ -1,0 +1,21 @@
+services:
+  employee-service:
+    # Build the Docker image using the specified context and Dockerfile
+    build:
+      context: ./employee-management/
+      dockerfile: Dockerfile 
+    image: employee-service:latest
+    container_name: "employee-management"
+    # Map ports from host to container
+    ports:
+      - "8080:8080"
+  employee-service-ui:
+    # Build the Docker image using the specified context and Dockerfile
+    build:
+      context: ./employee-management-ui/
+      dockerfile: Dockerfile
+    image: employee-service-ui:latest
+    container_name: "employee-management-ui"
+    # Map ports from host to container
+    ports:
+      - "3000:3000"

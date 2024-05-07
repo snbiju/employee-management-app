@@ -1,0 +1,399 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "Engineering"
+        },
+        {
+            "id": 2,
+            "name": "Marketing"
+        },
+        {
+            "id": 3,
+            "name": "Sales"
+        },
+        {
+            "id": 4,
+            "name": "Trainee"
+        },
+        {
+            "id": 5,
+            "name": "Accounting"
+        },
+        {
+            "id": 6,
+            "name": "HR"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "employeeName": "Alice",
+            "salary": 70000,
+            "department": {
+                "id": 1,
+                "name": "Engineering"
+            }
+        },
+        {
+            "id": 2,
+            "employeeName": "Bob",
+            "salary": 60000,
+            "department": {
+                "id": 2,
+                "name": "Marketing"
+            }
+        },
+        {
+            "id": 3,
+            "employeeName": "Alex",
+            "salary": 50000,
+            "department": {
+                "id": 3,
+                "name": "Sales"
+            }
+        },
+        {
+            "id": 4,
+            "employeeName": "Mike",
+            "salary": 9000,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 5,
+            "employeeName": "Amy",
+            "salary": 40000,
+            "department": {
+                "id": 5,
+                "name": "Accounting"
+            }
+        },
+        {
+            "id": 6,
+            "employeeName": "John",
+            "salary": 8000,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 7,
+            "employeeName": "Carol",
+            "salary": 65000,
+            "department": {
+                "id": 1,
+                "name": "Engineering"
+            }
+        },
+        {
+            "id": 8,
+            "employeeName": "David",
+            "salary": 62000,
+            "department": {
+                "id": 2,
+                "name": "Marketing"
+            }
+        },
+        {
+            "id": 9,
+            "employeeName": "Eve",
+            "salary": 55000,
+            "department": {
+                "id": 3,
+                "name": "Sales"
+            }
+        },
+        {
+            "id": 10,
+            "employeeName": "Frank",
+            "salary": 9500,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 11,
+            "employeeName": "Grace",
+            "salary": 42000,
+            "department": {
+                "id": 5,
+                "name": "Accounting"
+            }
+        },
+        {
+            "id": 12,
+            "employeeName": "Helen",
+            "salary": 8200,
+            "department": {
+                "id": 6,
+                "name": "HR"
+            }
+        },
+        {
+            "id": 13,
+            "employeeName": "Isaac",
+            "salary": 72000,
+            "department": {
+                "id": 1,
+                "name": "Engineering"
+            }
+        },
+        {
+            "id": 14,
+            "employeeName": "James",
+            "salary": 63000,
+            "department": {
+                "id": 2,
+                "name": "Marketing"
+            }
+        },
+        {
+            "id": 15,
+            "employeeName": "Kate",
+            "salary": 54000,
+            "department": {
+                "id": 3,
+                "name": "Sales"
+            }
+        },
+        {
+            "id": 16,
+            "employeeName": "Leo",
+            "salary": 9200,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 17,
+            "employeeName": "Megan",
+            "salary": 43000,
+            "department": {
+                "id": 6,
+                "name": "HR"
+            }
+        },
+        {
+            "id": 18,
+            "employeeName": "Nathan",
+            "salary": 8500,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 19,
+            "employeeName": "Olivia",
+            "salary": 71000,
+            "department": {
+                "id": 1,
+                "name": "Engineering"
+            }
+        },
+        {
+            "id": 20,
+            "employeeName": "Paul",
+            "salary": 64000,
+            "department": {
+                "id": 2,
+                "name": "Marketing"
+            }
+        },
+        {
+            "id": 21,
+            "employeeName": "Quincy",
+            "salary": 53000,
+            "department": {
+                "id": 3,
+                "name": "Sales"
+            }
+        },
+        {
+            "id": 22,
+            "employeeName": "Rita",
+            "salary": 9100,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 23,
+            "employeeName": "Steve",
+            "salary": 41000,
+            "department": {
+                "id": 5,
+                "name": "Accounting"
+            }
+        },
+        {
+            "id": 24,
+            "employeeName": "Tina",
+            "salary": 8300,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 25,
+            "employeeName": "Ursula",
+            "salary": 68000,
+            "department": {
+                "id": 1,
+                "name": "Engineering"
+            }
+        },
+        {
+            "id": 26,
+            "employeeName": "Victor",
+            "salary": 61000,
+            "department": {
+                "id": 2,
+                "name": "Marketing"
+            }
+        },
+        {
+            "id": 27,
+            "employeeName": "Wendy",
+            "salary": 56000,
+            "department": {
+                "id": 3,
+                "name": "Sales"
+            }
+        },
+        {
+            "id": 28,
+            "employeeName": "Xavier",
+            "salary": 9600,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 29,
+            "employeeName": "Yvonne",
+            "salary": 44000,
+            "department": {
+                "id": 5,
+                "name": "Accounting"
+            }
+        },
+        {
+            "id": 30,
+            "employeeName": "Zane",
+            "salary": 8200,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 31,
+            "employeeName": "Abby",
+            "salary": 72000,
+            "department": {
+                "id": 1,
+                "name": "Engineering"
+            }
+        },
+        {
+            "id": 32,
+            "employeeName": "Brian",
+            "salary": 65000,
+            "department": {
+                "id": 2,
+                "name": "Marketing"
+            }
+        },
+        {
+            "id": 33,
+            "employeeName": "Caleb",
+            "salary": 54000,
+            "department": {
+                "id": 3,
+                "name": "Sales"
+            }
+        },
+        {
+            "id": 34,
+            "employeeName": "Derek",
+            "salary": 9400,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 35,
+            "employeeName": "Elaine",
+            "salary": 43000,
+            "department": {
+                "id": 5,
+                "name": "Accounting"
+            }
+        },
+        {
+            "id": 36,
+            "employeeName": "Felix",
+            "salary": 8000,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 37,
+            "employeeName": "Gina",
+            "salary": 72000,
+            "department": {
+                "id": 1,
+                "name": "Engineering"
+            }
+        },
+        {
+            "id": 38,
+            "employeeName": "Henry",
+            "salary": 61000,
+            "department": {
+                "id": 2,
+                "name": "Marketing"
+            }
+        },
+        {
+            "id": 39,
+            "employeeName": "Ivy",
+            "salary": 54000,
+            "department": {
+                "id": 3,
+                "name": "Sales"
+            }
+        },
+        {
+            "id": 40,
+            "employeeName": "Jack",
+            "salary": 9200,
+            "department": {
+                "id": 4,
+                "name": "Trainee"
+            }
+        },
+        {
+            "id": 41,
+            "employeeName": "Karen",
+            "salary": 41000,
+            "department": {
+                "id": 5,
+                "name": "Accounting"
+            }
+        }
+    ]
+}
